@@ -1,1 +1,3 @@
 # Singapore_Resale_Flat_Price_Prediction
+
+The Singapore Resale Flat Price Prediction project aims to forecast the resale prices of flats in Singapore using machine learning. It involves collecting historical resale flat data, cleaning and preprocessing it, and selecting relevant features like location, flat type, floor area, and lease remaining. Various regression models (e.g., linear regression, decision trees, random forests) are trained and evaluated to determine the most accurate predictor. The project includes visualizing data trends and model performance, and deploying the best model to predict future prices, assisting buyers, sellers, and policymakers in making informed decisions.
